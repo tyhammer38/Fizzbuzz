@@ -11,4 +11,9 @@ function Fizzbuzz(number){
 }
 
 console.log(Fizzbuzz(3));
+console.log(Fizzbuzz(19));
 console.log(Fizzbuzz(15));
+
+for(i = 0; i < 100; i++){
+    console.log(Fizzbuzz(i));
+}
