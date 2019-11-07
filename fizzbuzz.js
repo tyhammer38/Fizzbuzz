@@ -11,4 +11,4 @@ function Fizzbuzz(number){
 }
 
 console.log(Fizzbuzz(3));
-console.log(Fizzbuzz(15));
+
