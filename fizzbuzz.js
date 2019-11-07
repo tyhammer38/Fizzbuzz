@@ -12,3 +12,4 @@ function Fizzbuzz(number){
 
 console.log(Fizzbuzz(3));
 
+
