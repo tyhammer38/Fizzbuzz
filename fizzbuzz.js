@@ -1,4 +1,4 @@
-function(number){
+function Fizzbuzz(number){
     if(number % 3 === 0 && number % 5 === 0){
         return FizzBuzz;
     }
@@ -9,3 +9,5 @@ function(number){
         return Buzz;
     }
 }
+
+console.log(Fizzbuzz(3));
