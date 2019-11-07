@@ -14,3 +14,6 @@ console.log(Fizzbuzz(3));
 console.log(Fizzbuzz(46));
 console.log(Fizzbuzz(19));
 
+for(i = 0; i < 100; i++;){
+    console.log(Fizzbuzz(i));
+}
